@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER "Rafael Ramos <arkanjo.ms@gmail.com>"
+LABEL maintainer "Rafael Ramos <arkanjo.ms@gmail.com>"
 
 RUN echo "Criando minha primeira imagem!"
 
