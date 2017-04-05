@@ -10,4 +10,4 @@ Projeto efcaz-test é um projeto de testes funcionais do projeto efcaz.
     * Liquibase
     * Docker
  
-[Dockerfile](http://git.azi.com.br/efcaz/efcaz-test/blob/1.2/docker/Dockerfile)
+[Dockerfile](Dockerfile)
